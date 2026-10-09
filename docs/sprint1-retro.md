@@ -8,6 +8,7 @@
 - Tests should cover more error cases.
 - Changes should be committed in smaller increments.
 
+
 **Improvements for Sprint 2:**
 1. Add tests for completing and deleting tasks.
 2. Commit and test each feature separately.
